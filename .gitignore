@@ -1,0 +1,9 @@
+target/
+/file-uploads
+/.vertx
+/.idea
+*.iml
+
+.settings/
+.project
+.classpath
